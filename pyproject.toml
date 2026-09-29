@@ -1,6 +1,6 @@
 [project]
 name = "rfc6901jsonpointer"
-version = "0.1.0"
+version = "0.1.1"
 description = "Zero-dependency pure-Python RFC 6901 JSON Pointer parser"
 readme = "README.md"
 license = {text = "MIT"}

@@ -3,5 +3,5 @@
 from ._errors import JSONPointerError
 from ._parser import JSONPointer
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __all__ = ["JSONPointer", "JSONPointerError", "__version__"]

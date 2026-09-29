@@ -23,7 +23,7 @@ from rfc6901jsonpointer import JSONPointer, JSONPointerError
 
 ptr = JSONPointer("/a/b/0")
 doc = {"a": {"b": ["x", "y", "z"]}}
-result = ptr.evaluate(doc)   # → "z"
+result = ptr.evaluate(doc)   # → "x"
 
 # Total function — None input raises JSONPointerError, never crashes
 JSONPointer("/x").evaluate(None)          # → JSONPointerError
