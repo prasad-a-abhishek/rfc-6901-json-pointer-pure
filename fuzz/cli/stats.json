@@ -1,12 +1,12 @@
 {
-  "seed": 4008679979,
-  "iterations_planned": 200,
+  "seed": 42,
+  "iterations_planned": 100,
   "crashes": 0,
   "hangs": 0,
   "findings": 0,
-  "ok": 8,
-  "expected_errors": 192,
-  "start": 1790715075.1151464,
-  "end": 1790715078.171015,
-  "duration_seconds": 3.055868625640869
+  "ok": 6,
+  "expected_errors": 94,
+  "start": 1790715158.9397774,
+  "end": 1790715160.436358,
+  "duration_seconds": 1.4965806007385254
 }
